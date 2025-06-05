@@ -17,7 +17,7 @@
 
 ## 📂 Descripción del Repositorio
 
-Este repositorio contiene el Trabajo Práctico Integrador correspondiente al módulo **AYSO – Administración y Soporte Operativo**.  
+Este repositorio contiene el Trabajo Práctico Integrador correspondiente al módulo **AYSO – Administración y Sistemas Operativos**.  
 El proyecto se enfoca en el uso de **máquinas virtuales**, la instalación y configuración de herramientas de desarrollo en **Ubuntu Desktop 24.04**, y la documentación detallada del proceso.
 
 ---
