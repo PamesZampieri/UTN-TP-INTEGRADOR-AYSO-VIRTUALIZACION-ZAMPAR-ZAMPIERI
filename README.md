@@ -22,13 +22,15 @@ El proyecto se enfoca en el uso de **máquinas virtuales**, la instalación y co
 
 ---
 
-## 📁 Estructura
+## 📁 Estructura del Proyecto
 
+```plaintext
 UTN-TP-INTEGRADOR-AYSO-VIRTUALIZACION-ZAMPAR-ZAMPIERI/
 │
-├── README.md  # Archivo con la descripción y estructura del repositorio
-├── TP_Integrador_AySO_Virtualizacion_Zampar_Zampieri.pdf  # Documento completo con capturas y procedimientos
-├── codigo/  # Scripts en Python usados en el Caso Práctico 4
+├── README.md                                      # Descripción y estructura del repositorio
+├── TP_Integrador_AySO_Virtualizacion_Zampar_Zampieri.pdf  # Informe completo con capturas y procedimientos
+└── codigo/                                        # Scripts en Python usados en el Caso Práctico 4
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
@@ -52,15 +54,22 @@ UTN-TP-INTEGRADOR-AYSO-VIRTUALIZACION-ZAMPAR-ZAMPIERI/
 
 ## 📹 Video Demostrativo
 
-🔗 **
+🔗 [Ver en YouTube](https://youtu.be/VTD8AkAj6xE?feature=shared&utm_source=ZTQxO)
+
+---
+
+## 📂 Carpeta Digital
+
+🔗 [Acceder a la carpeta en Google Drive](https://drive.google.com/drive/folders/13cROlgcrMU2zV0un1QkMRcO1R6uKc7xR?usp=drive_link)
 
 ---
 
 ## 📌 Notas
 
 - El código Python del **juego “La tortuga y la liebre”** del libro **"Cómo Programar en Java" de Deitel** se encuentra comentado y probado dentro de la carpeta `codigo`.
-- Todas las capturas necesarias para respaldar el informe están incluidas en el archivo `TP_Integrador_AySO_Virtualizacion_Zampar_Zampieri.pdf`.
+- Todas las capturas necesarias para respaldar el informe están incluidas en el archivo `TP-Integrador-AYSO-Virtualización-Zampar-Zampieri.pdf`.
 
 ---
 
-
+📘 *Trabajo realizado por Facundo Zampar y Pamela Zampieri*  
+👨‍💻 *Tecnicatura Universitaria en Programación - UTN*
